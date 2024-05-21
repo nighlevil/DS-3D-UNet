@@ -93,4 +93,9 @@ not yet pubilshed
 
 # License
 
-The code is released under the [MIT license](./LICENSE)
+The code is released under the [MIT license](./DS-3D-UNet/LICENSE)
+
+# Source Code
+
+Source code:
+BronchiNet: https://github.com/antonioguj/bronchinet
