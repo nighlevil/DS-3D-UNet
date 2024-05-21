@@ -5,7 +5,7 @@ Contact:Jiajie Li(15316072595@163.com)
 
 ## Model Architecture
 
-
+![image](https://github.com/nighlevil/DS-3D-UNet/tree/master/DS-3D-UNet/model_architecture.png)
 
 # Requirements
 - python packages required are in "requirements.txt"
